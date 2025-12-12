@@ -150,6 +150,18 @@
     "version": null
   },
   {
+    "author": "Nemonian",
+    "name": "Moyo2.0-Blood stained business",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Morreleko",
+    "name": "Moyo Mechanitor Gear",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Nemonian.MY",
     "name": "[1.6] Moyo - from the depth",
     "steamId": "3240244292",
@@ -238,5 +250,17 @@
     "name": "Not My Fault",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Sokyran, Taranchuk and Erdelf",
+    "name": "Vanilla Gravship Expanded - Chapter 1",
+    "steamId": "3609835606",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ferny",
+    "name": "No Modlist on Loading",
+    "steamId": "3618480405",
+    "version": "1.0.0.0"
   }
 ]
