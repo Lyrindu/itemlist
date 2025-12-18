@@ -210,12 +210,6 @@
     "version": "4.2+22e6c6fce244bc45e278cc012ce945edac7b00b6"
   },
   {
-    "author": "John Roper",
-    "name": "RimDialogue - Real Conversations",
-    "steamId": "3365889763",
-    "version": "0.93.4.0"
-  },
-  {
     "author": "ColdToad",
     "name": "Centralized Climate Control (Continued)",
     "steamId": null,
@@ -224,6 +218,60 @@
   {
     "author": "NightmareCorporation",
     "name": "Development Mode Hotkey",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Vesper",
+    "name": "Not My Fault",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson, Sokyran, Taranchuk and Erdelf",
+    "name": "Vanilla Gravship Expanded - Chapter 1",
+    "steamId": "3609835606",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "ferny",
+    "name": "No Modlist on Loading",
+    "steamId": "3618480405",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ancot",
+    "name": "Ancot Library",
+    "steamId": "2988801276",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ancot",
+    "name": "Milira Race",
+    "steamId": "3256974620",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "rabiosus",
+    "name": "Milira Addon: Fianchetto Variation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - WIP",
+    "steamId": "1635901197",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Ancot",
+    "name": "Milira Race Facial Animation",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Nals",
+    "name": "[NL] Facial Animation - Experimentals",
     "steamId": null,
     "version": null
   },
@@ -244,23 +292,5 @@
     "name": "ToolkitUtils",
     "steamId": "2009500580",
     "version": "7.0.6.0-RC1+21634b199ea59288446c2da46ac41fe3544ee4c3"
-  },
-  {
-    "author": "Vesper",
-    "name": "Not My Fault",
-    "steamId": null,
-    "version": null
-  },
-  {
-    "author": "Oskar Potocki, Sarg Bjornson, Sokyran, Taranchuk and Erdelf",
-    "name": "Vanilla Gravship Expanded - Chapter 1",
-    "steamId": "3609835606",
-    "version": "1.0.0.0"
-  },
-  {
-    "author": "ferny",
-    "name": "No Modlist on Loading",
-    "steamId": "3618480405",
-    "version": "1.0.0.0"
   }
 ]

@@ -709,7 +709,9 @@
       "removePrice": 5500,
       "degree": 0,
       "description": "Timmy believes the human body is limited for a reason. To him, artificial body parts and xenogenes are unethical and disgusting.",
-      "stats": [],
+      "stats": [
+        "-10.00% sex drive"
+      ],
       "conflicts": [
         "bodymodder"
       ],
@@ -718,7 +720,9 @@
         "conflicts": [
           "bodymodder"
         ],
-        "stats": [],
+        "stats": [
+          "-10.00% sex drive"
+        ],
         "canBypassLimit": false,
         "customName": false,
         "karmaTypeForRemoving": null,
@@ -1891,7 +1895,69 @@
       "defName": "Alien_Moyo",
       "enabled": true,
       "name": "Moyo",
-      "price": 4167
+      "price": 30000
+    },
+    {
+      "data": {
+        "customName": false,
+        "stats": [
+          "+52.00 Mass",
+          "+0% Flammability",
+          "+5000 Max flight time",
+          "+0 Flight cooldown",
+          "+$5500 Market value",
+          "+4.60 Move speed",
+          "+22% Mental break threshold",
+          "+45.0C Max comfortable temperature",
+          "-25.0C Min comfortable temperature",
+          "+108% Immunity gain speed",
+          "+100 Carrying capacity",
+          "+10 Honor value",
+          "+110 Meat amount",
+          "+65 Leather amount",
+          "+150% Global learning factor",
+          "+120% Psychic sensitivity",
+          "+90% Aiming time",
+          "+95% Pain shock threshold",
+          "+100% General labor speed",
+          "+100% Drug synthesis speed",
+          "+100% Medical tend speed",
+          "+100% Medical tend quality",
+          "+100% Medical surgery success chance",
+          "+150.00% Negotiation ability",
+          "+100% Sell price multiplier",
+          "+100.00% Trade price improvement",
+          "+100.00% Social impact",
+          "+80% Global work speed",
+          "+100% Eating speed",
+          "+100% Construction speed",
+          "+150% Mechanoid shredding efficiency",
+          "+180% Mechanoid shredding speed",
+          "+135% Smelting speed",
+          "+135% Research speed",
+          "+100% Mining speed",
+          "+100% Mining yield",
+          "+100% Butchery efficiency",
+          "+20% Butchery speed",
+          "+1.0 Cooking speed",
+          "+100% Rest rate multiplier",
+          "+100% Plant work speed",
+          "+100% Plant harvest yield",
+          "+25.0% Armor - Heat",
+          "+2.00 Neural heat recovery rate",
+          "+150% / day Meditation psyfocus gain",
+          "+3 Mech bandwidth",
+          "+10% Mech work speed offset",
+          "+100% Vacuum resistance"
+        ],
+        "mod": "Unknown",
+        "karmaType": null
+      },
+      "description": "An ancient species that soars through the skies, the elves of the heavens, known as Milira. Characterized by their pure white wings and the diverse auras that crown their heads, they are often mistaken for angels and have been worshipped by many humans.\n\n      In the distant past, the Milira were strong and warlike. They seemed to be born for battle, relying on their innate combat instincts and superior physical capabilities. They excelled at using swift and fierce close combat, as well as devastating spells to shatter their enemies, thus dominating their realm.\n      \n      However, after vanquishing all their formidable foes, the Milira gradually lost the meaning of battle. The race needed to find a new purpose for existence. But with their exceedingly long lifespans, the Milira's interest in anything could be worn away by the passage of time, leaving only the unfathomable sea of knowledge that continually drew them to explore.\n      \n      Gradually, the Milira ceased to yearn for battle and began to pursue knowledge. They collected languages and texts from various races, observed every corner of the world; built floating cities, and established libraries to store their accumulating wisdom. Over time, the combat skills of the Milira were buried deep in the collective memory, covered by layer upon layer of fertile soil called knowledge.\n      \n      The Milira had a long period of friendly relations with humans and occasionally guided them in the development of science and technology. However, after a certain incident, the Milira became enemies with humans, and the clouds of war gradually enveloped everyone. A conflict seemed inevitable...",
+      "defName": "Milira_Race",
+      "enabled": true,
+      "name": "Milira",
+      "price": 50000
     }
   ]
 }
